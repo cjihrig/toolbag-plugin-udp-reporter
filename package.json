@@ -1,7 +1,7 @@
 {
   "name": "toolbag-plugin-udp-reporter",
   "version": "1.0.0",
-  "description": "preloaded Node.js tooling enhancements",
+  "description": "toolbag reporting over UDP",
   "author": "Continuation Labs <contact@continuation.io> (http://continuation.io/)",
   "main": "lib/index.js",
   "homepage": "https://github.com/continuationlabs/toolbag-plugin-udp-reporter",
